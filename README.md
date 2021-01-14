@@ -6,6 +6,6 @@ CSS updated to contain comments on each style, and to condense commands where po
 Link to website:https://benelliott111.github.io/Homework1/
 
 Screenshots of final website
-(./assets/Screenshot1.png)
-(./assets/Screenshot2.png)
-(./assets/Screenshot3.png)
+![screenshot](./assets/Screenshot1.png)
+![screenshot](./assets/Screenshot2.png)
+![screenshot](./assets/Screenshot3.png)
