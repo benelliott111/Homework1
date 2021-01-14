@@ -5,7 +5,7 @@ CSS updated to contain comments on each style, and to condense commands where po
 
 Link to website:https://benelliott111.github.io/Homework1/
 
-Screenshots of final websitr
-(./Assets/Screenshot1.png)
-(./Assets/Screenshot2.png)
-(./Assets/Screenshot3.png)
+Screenshots of final website
+(./assets/Screenshot1.png)
+(./assets/Screenshot2.png)
+(./assets/Screenshot3.png)
