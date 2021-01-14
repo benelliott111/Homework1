@@ -4,27 +4,32 @@
     margin: 0;
 }
 
+/* Sets background colour for page */
 body {
     background-color: #d9dcd6;
 }
 
+/* Structures header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-/* Structures header  */
 
+/* Styles header "Horiseon"*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Colours Horiseon  */
+
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Structures nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,24 +38,29 @@ body {
     font-size: 20px;
 }
 
+/* Styles unlisted element */
 .header nav ul {
     list-style-type: none;
 }
 
+/* Structures nav listed elements */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Colours a elements */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Sets size for p elements */
 p {
     font-size: 16px;
 }
 
+/* Structures hero section and places image  */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,22 +70,26 @@ p {
     background-position: center;
 }
 
+/* Structures float left parameters within div */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Structures float right paramenters within div */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Structures content section containing article divs */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Structures and styles aside containing article divs */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -87,54 +101,26 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* Structures article in aside */
+.benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+/* Structures article header 3 in aside */
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+/* Structures article image in aside */
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/* Structures first article in section */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -144,6 +130,7 @@ p {
     color: #ffffff;
 }
 
+/* Structures second article in section */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -153,6 +140,7 @@ p {
     color: #ffffff;
 }
 
+/* Structures third article in section */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -162,33 +150,18 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+/* Structures article images in section */
+.content img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+/* Structures article headers in section */
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* Structures footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -196,6 +169,7 @@ p {
     text-align: center;
 }
 
+/* Structuers footer header */
 .footer h2 {
     font-size: 20px;
 }
